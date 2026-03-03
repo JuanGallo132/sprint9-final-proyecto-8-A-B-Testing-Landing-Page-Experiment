@@ -1,0 +1,2 @@
+# sprint9-final-proyecto-8-A-B-Testing-Landing-Page-Experiment
+Este proyecto analiza un experimento A/B realizado sobre una landing page con el objetivo de determinar cuál versión (A o B) genera mejores resultados en términos de:  📈 Tasa de conversión  💰 Gasto promedio por usuario convertido  🔗 Influencia de la fuente de tráfico  👤 Impacto del tipo de usuario (nuevo vs recurrente). Desarrollado en Python.
